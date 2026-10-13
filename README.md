@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">FigCraft</h1>
+<h1 align="center">FigKraft</h1>
 
 <p align="center">
   <b>Interface design; an open-source, clean-room reimplementation of Figma, rebuilt in pure Rust.</b><br>
